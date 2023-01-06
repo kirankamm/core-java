@@ -1,0 +1,164 @@
+1.1
+Ans:
+   public static void main(String args [])
+   
+   public means it is axess or run to the in class and out side class  and static means only works 
+   in class and String is the non primitive type Squqr box is there in obejects
+
+1.2
+ Class:
+ class is collection of the methods,obejectives,varibles,data,keywords give by the users and proses it give the output
+  
+   
+   obeject:
+   obeject is  class a number of methods we can use it run it its contains the arrey ,in the arrey parameters are there with seperate them by comma
+   
+1.3
+ Ans:
+    JVM:
+     Java Vartual machine is  process by runtime and giving the byte code	
+      
+	  steps of JVM
+	       process
+           verifys
+		   exicute
+   
+   JRE;Java Runtime environment
+     JRE is the JVM + set of liberary
+	 
+	 
+	 JDK:java Development Kit
+      JDKis the JRE +  set of liberary
+	  
+4:
+
+ ex: Parents parents = new Parents();
+ 
+ constructer: is define as the constructer name  same as the calss name it not contians return type is called as constructer 
+ 
+ 2 types constructer 
+  
+  parameteriased constructer:
+ constructer is define as the its contains the parents class and child class and new key word ,
+ in this helps of to parents class, parethess and semicolom in parthesis  a number of parameters ues and  run it  
+ 
+ defaulte constructer:
+   defaulte constructer is the contains the parents class and child class and new key word ,
+ in this helps of to parents class, parethess and semicolom in parthesis () we can not use parameters and run it.
+ 
+ 
+ 
+  Qun 5
+  
+   keywords:
+   *Is the standard form
+   *Limitaion to use
+   
+   Ex:return,new
+   
+   this():
+   Ex: this.String name= name;
+   
+    when the complex between in instance variable and parameters that easy find or recognised and problem we can solve
+
+	
+	Qun7
+	
+	Ans:in main method static  the grogramm run time 1st to come to the main method and static is the the information under the class it not to go the  
+	
+	
+	type of methods:
+      1: predefined
+	  2:users defined
+	
+	
+	predefined is defined as the it is already contain or include in the java.
+	
+    user defined is define as the user can input to any wods 
+
+
+Qun no:10
+  
+   private constuctor:
+   private constuctor is use in encapsulation we can not ues out side the class we restrute to the use for sequire   
+    
+	EX:
+	class Hospital{
+   private String name;
+   private int contactNo;
+   private int address;   
+	
+	}
+	public Hosptal( String name int contactNo  int address )
+	
+	this.name  = name;
+	this.contactNo =  contactNo;
+	this.address  =  address;
+	
+	
+	
+	Qun No: 12
+	
+	yes we can use instance variable inside the static variables. instance variable is defined
+	is decleared the inside the class and out side the all method is called as the instace variable   
+	
+	Qun No9:
+	
+	java class loading: is the in calss containing the datatypes,variables,methods,group of codes 
+	it runs to load is called as the java class loading
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+   
+	  
+   
+   
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+   
+   
